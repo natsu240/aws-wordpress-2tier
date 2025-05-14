@@ -1,4 +1,4 @@
-# AWS × WordPress 2ティア構成構築ログ
+# AWS × WordPress 構成構築ログ
 
 ## 概要
 
