@@ -8,7 +8,7 @@ AWS上にVPCから構成を始め、Webサーバー（WordPress）とDBサーバ
 
 ## 構成図
 
-※後日追加予定（draw.io想定）
+![構成図](./構成図.png)
 
 ## 使用AWSサービス
 
